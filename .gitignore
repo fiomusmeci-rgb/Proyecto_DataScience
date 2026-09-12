@@ -1,6 +1,11 @@
+# Entorno virtual y temporales
 .venv/
 __pycache__/
 .ipynb_checkpoints/
-data/
-output/
-*.csv
+
+# Ignorar contenido pesado pero conservar las carpetas en GitHub
+data/*
+!data/**/.gitkeep
+
+output/*
+!output/**/.gitkeep
