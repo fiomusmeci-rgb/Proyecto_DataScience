@@ -3,9 +3,3 @@
 __pycache__/
 .ipynb_checkpoints/
 
-# Ignorar contenido pesado pero conservar las carpetas en GitHub
-data/*
-!data/**/.gitkeep
-
-output/*
-!output/**/.gitkeep
