@@ -17,9 +17,9 @@ Realizar un análisis a nivel descriptivo sobre la relación entre el nivel educ
 4. Identificar disparidades transversales: Analizar cómo se comporta la brecha de retornos educativos (ingresos y ocupación) al segmentar los datos por sexo y área de residencia (urbana vs. rural), para evaluar si el impacto de la educación “en el ingreso promedio” varía según el contexto demográfico.
 
 ## Estructura del Repositorio
-- `data/`: Dataset original y transformado (ignorado en Git).
+- `data/`: Dataset original y transformado.
 - `notebooks/`: Notebooks de Jupyter para exploración y modelado.
-- `src/`: Scripts de Python reutilizables.
+- `src/`: Scripts de Python reutilizables (agregar funciones según etapa correspondiente. Ejemplo: Etapa 3 -> limpieza.py).
 - `output/`: Gráficos, reportes y artefactos generados.
 
 ## Guía de Reproducción
