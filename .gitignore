@@ -3,3 +3,13 @@
 __pycache__/
 .ipynb_checkpoints/
 
+# Ignorar todo excepto notebooks, documentación, dependencias y este archivo
+*
+!.gitignore
+!README*
+!requirements*.txt
+!*.ipynb
+!Informes/
+!Informes/**
+!*/
+
