@@ -9,7 +9,10 @@ __pycache__/
 !README*
 !requirements*.txt
 !*.ipynb
+<<<<<<< HEAD
+=======
 !Informes/
 !Informes/**
+>>>>>>> 11333793e57c7c298a7b9d7588bac48a21fb5687
 !*/
 
